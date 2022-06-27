@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVGGenerator", "SVGGenerator.csproj", "{CE68BE52-45BF-4E39-AB26-AB780060C9F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE68BE52-45BF-4E39-AB26-AB780060C9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE68BE52-45BF-4E39-AB26-AB780060C9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE68BE52-45BF-4E39-AB26-AB780060C9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE68BE52-45BF-4E39-AB26-AB780060C9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39093331-097E-4542-86F3-22E6317D203C}
+	EndGlobalSection
+EndGlobal
